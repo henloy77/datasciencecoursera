@@ -1,2 +1,2 @@
 # datasciencecoursera
-week one assignment
+course one assignment
